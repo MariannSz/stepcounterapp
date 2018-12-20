@@ -1,2 +1,2 @@
 # stepcounterapp
-stepcounter application for uni project
+stepcounter Android application made with Android Studio for uni project
